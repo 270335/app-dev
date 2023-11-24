@@ -1,8 +1,6 @@
 # app-dev
 My first repository
 
-- - -
-
 ## about me
 
 > "Don't you think dreams and the Internet are similar? They are both areas where the repressed conscious mind vents." - Paprika
@@ -17,8 +15,6 @@ My first repository
 - Madoka Magica [^1]
 - Satoshi Kon Movies [^3]
 - Hunter x Hunter
-
-- - -
 
 ### footnotes
 [^1]: The 12 episode series plus the 3rd movie.
